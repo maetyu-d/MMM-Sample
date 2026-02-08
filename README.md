@@ -13,14 +13,3 @@ cmake -B build -S .
 cmake --build build
 ```
 
-## What works so far
-
-- Load a WAV into a track
-- Render timeline clips with variable resampling curves (Linear, Slow->Fast, Fast->Slow)
-- DAW-like arrangement view with tracks and clips
-
-## Next steps
-
-- Add clip-level warp editor (custom points)
-- Add multiple tracks, drag/drop, and timeline snapping
-- Add transport/tempo grid and playback loop
