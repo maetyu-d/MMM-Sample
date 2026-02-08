@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/md/Downloads/MBV sampler/build/cmake_install.cmake",
+		"/Users/md/Downloads/MBV sampler/build/JUCE/cmake_install.cmake",
+		"/Users/md/Downloads/MBV sampler/build/JUCE/modules/cmake_install.cmake",
+		"/Users/md/Downloads/MBV sampler/build/JUCE/extras/Build/cmake_install.cmake",
+		"/Users/md/Downloads/MBV sampler/build/JUCE/extras/Build/juceaide/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
