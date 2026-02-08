@@ -1,6 +1,6 @@
-# MMM Sample (JUCE)
+# MMM Sample
 
-A JUCE-based realtime audio app for building compositions from WAV samples with time-warped resampling that always fits a target clip length.
+Fundamentally, MMM Sample is a JUCE-based application for building compositions from disparate WAV samples with automatic time-warped resampling so that they always fits a target structure/length.
 
 ## Build (macOS)
 
